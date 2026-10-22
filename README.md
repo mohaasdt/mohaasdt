@@ -29,6 +29,7 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 | [**Oujdi Dialect Classifier**](https://github.com/mohaasdt/oujdi-dialect-classifier) | Oujdi vs Moroccan Darija classifier comparing TF-IDF, BiLSTM and DistilBERT + LoRA, served through a Flask API and a React interface. | NLP · Transformers · LoRA · Flask · React |
 | [**Attendify**](https://github.com/mohaasdt/attendify-face-recognition) | Face-recognition attendance system (Haar Cascade, LBPH, dlib embeddings) with an assistant powered by local LLMs. | OpenCV · dlib · Ollama · MySQL |
 | [**PFE Management Platform**](https://github.com/mohaasdt/pfe-management-platform) | Academic platform with NLP-based supervisor matching, constraint-based defense scheduling and Excel/PDF reporting. | Java · Spring Boot · Security · MySQL |
+| [**StackFlow GitOps**](https://github.com/mohaasdt/stackflow-gitops) | Self-service GitOps delivery platform (local MVP): tested and scanned images, reviewed staging/production promotion with Argo CD, Kubernetes, Terraform bootstrap and monitoring. | Kubernetes · Argo CD · Terraform · GitHub Actions · Prometheus |
 | [**CAN 2025 Prediction**](https://github.com/mohaasdt/can-2025-prediction) | Africa Cup of Nations winner prediction with feature engineering, Random Forest and Monte Carlo tournament simulation. | Scikit-learn · Pandas · Monte Carlo |
 
 ## Technical Toolbox
@@ -43,7 +44,7 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 `Apache Spark` `Hadoop` `Kafka` `Airflow` `PostgreSQL` `MySQL` `MongoDB` `Redis`
 
 **Backend & DevOps**  
-`Python` `Java` `FastAPI` `Flask` `Spring Boot` `React` `Docker` `Git` `Linux` `Azure`
+`Python` `Java` `TypeScript` `FastAPI` `Flask` `Spring Boot` `React` `Docker` `Kubernetes` `Argo CD` `Terraform` `GitHub Actions (CI/CD)` `Prometheus` `Grafana` `Git` `Linux` `Azure`
 
 ## Current Focus
 
