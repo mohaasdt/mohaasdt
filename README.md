@@ -6,8 +6,8 @@
 
 **Generative AI · LLM · RAG · Fine-tuning · NLP**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-oulhadj)
-[![Email](https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oulhadjmohamed62@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Oulhadj-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-oulhadj/)
+[![Email](https://img.shields.io/badge/Email-oulhadjmohamed62%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=oulhadjmohamed62@gmail.com)
 
 </div>
 
@@ -54,4 +54,4 @@ I like turning language models into real applications: grounding answers with **
 ## Contact
 
 📍 Ahfir, Morocco  
-🔗 [LinkedIn](https://linkedin.com/in/mohammed-oulhadj) · [Email](mailto:oulhadjmohamed62@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-oulhadj/) · ✉️ oulhadjmohamed62@gmail.com
