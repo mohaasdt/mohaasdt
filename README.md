@@ -1,31 +1,57 @@
-## Hi, I'm Mohammed Oulhadj 👋
+<div align="center">
 
-**AI Engineer in training · LLM · RAG · NLP**
+# Mohammed Oulhadj
 
-Final-year engineering student in **Digital Transformation & Artificial Intelligence** at **ENSA Al Hoceima** (Morocco).
-I build generative AI applications: LLM-based assistants, RAG systems, fine-tuned models and the APIs that serve them.
+### AI Engineer in training
 
-- 🎯 Looking for an **end-of-studies internship (PFE)** starting **February 2027** in AI Engineering, LLM, RAG or NLP. Open to international opportunities.
-- 🔨 Currently building **Wattson Advisor**: an LLM + RAG pre-sales assistant for solar PV and EV charging (Wattson Energy & Mobility).
-- 🌍 Arabic (native) · French (B2) · English
+**Generative AI · LLM · RAG · Fine-tuning · NLP**
 
-### 🚀 Featured projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-oulhadj)
+[![Email](https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oulhadjmohamed62@gmail.com)
 
-| Project | What it does | Stack |
+</div>
+
+## About
+
+Final-year engineering student in **Digital Transformation & Artificial Intelligence** at **ENSA Al Hoceima** (Morocco), focused on **generative AI**.
+
+I like turning language models into real applications: grounding answers with **RAG**, adapting models with **LoRA / QLoRA**, measuring results honestly, and serving everything through clean APIs and simple interfaces.
+
+**Currently looking for a PFE (end-of-studies) internship starting February 2027** in AI Engineering, LLM, RAG or NLP, in Morocco or internationally.
+
+## Featured Projects
+
+| Project | Description | Core stack |
 |---|---|---|
-| [BigData-Assistant](https://github.com/mohaasdt/BigData-Assistant) | QLoRA fine-tuning of Qwen2.5-1.5B to generate structured revision sheets | Transformers, PEFT, bitsandbytes, Gradio |
-| [oujdi-dialect-classifier](https://github.com/mohaasdt/oujdi-dialect-classifier) | Oujdi vs Moroccan Darija classification (TF-IDF, BiLSTM, DistilBERT + LoRA) | Transformers, PEFT, TensorFlow, Flask, React |
-| [attendify-face-recognition](https://github.com/mohaasdt/attendify-face-recognition) | Face recognition attendance system with a local LLM assistant | OpenCV, dlib, Ollama, MySQL |
-| [pfe-management-platform](https://github.com/mohaasdt/pfe-management-platform) | PFE allocation with NLP supervisor matching and defense scheduling | Spring Boot, MySQL, Docker |
-| [can-2025-prediction](https://github.com/mohaasdt/can-2025-prediction) | CAN 2025 winner prediction with Random Forest and Monte Carlo simulation | Scikit-learn, Pandas |
+| **Wattson Advisor** *(in progress)* | LLM pre-sales assistant for solar PV and EV charging: needs qualification, RAG answers with cited sources, electricity-bill extraction and deterministic sizing engine. | LLM · RAG · pgvector · FastAPI · React · Ollama |
+| [**BigData Assistant**](https://github.com/mohaasdt/BigData-Assistant) | QLoRA fine-tuning of Qwen2.5-1.5B-Instruct to generate structured revision sheets (Definition / Example / Pitfall), evaluated base vs fine-tuned. | QLoRA · PEFT · Transformers · Gradio |
+| [**Oujdi Dialect Classifier**](https://github.com/mohaasdt/oujdi-dialect-classifier) | Oujdi vs Moroccan Darija classifier comparing TF-IDF, BiLSTM and DistilBERT + LoRA, served through a Flask API and a React interface. | NLP · Transformers · LoRA · Flask · React |
+| [**Attendify**](https://github.com/mohaasdt/attendify-face-recognition) | Face-recognition attendance system (Haar Cascade, LBPH, dlib embeddings) with an assistant powered by local LLMs. | OpenCV · dlib · Ollama · MySQL |
+| [**PFE Management Platform**](https://github.com/mohaasdt/pfe-management-platform) | Academic platform with NLP-based supervisor matching, constraint-based defense scheduling and Excel/PDF reporting. | Java · Spring Boot · Security · MySQL |
+| [**CAN 2025 Prediction**](https://github.com/mohaasdt/can-2025-prediction) | Africa Cup of Nations winner prediction with feature engineering, Random Forest and Monte Carlo tournament simulation. | Scikit-learn · Pandas · Monte Carlo |
 
-### 🛠️ Tech stack
+## Technical Toolbox
 
-- **LLM & RAG** · open-source LLMs (Qwen, Ollama), RAG, embeddings (sentence-transformers), pgvector, LoRA / QLoRA (PEFT), prompt engineering, Gradio
-- **NLP & ML** · Hugging Face Transformers, PyTorch, TensorFlow/Keras, Scikit-learn, OpenCV, Pandas, NumPy
-- **Data** · Apache Spark, Hadoop, Kafka, Airflow, PostgreSQL, MySQL, MongoDB, Redis
-- **Dev** · Python, Java (Spring Boot), JavaScript, React, FastAPI, Flask, Docker, Git, Linux, Azure
+**LLM & RAG**  
+`Open-source LLMs` `Qwen` `Ollama` `RAG` `Embeddings` `sentence-transformers` `pgvector` `LoRA / QLoRA` `PEFT` `Prompt Engineering` `Gradio`
 
-### 📫 Contact
+**NLP, ML & Deep Learning**  
+`Hugging Face Transformers` `DistilBERT` `BiLSTM` `PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
 
-[LinkedIn](https://linkedin.com/in/mohammed-oulhadj) · [oulhadjmohamed62@gmail.com](mailto:oulhadjmohamed62@gmail.com)
+**Data**  
+`Apache Spark` `Hadoop` `Kafka` `Airflow` `PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+**Backend & DevOps**  
+`Python` `Java` `FastAPI` `Flask` `Spring Boot` `React` `Docker` `Git` `Linux` `Azure`
+
+## Current Focus
+
+- building **Wattson Advisor**, an end-to-end LLM + RAG assistant;
+- evaluating and comparing open-source LLMs run locally;
+- LLM security (OWASP Top 10 for LLM, prompt injection);
+- preparing for a **February 2027 PFE internship**.
+
+## Contact
+
+📍 Ahfir, Morocco  
+🔗 [LinkedIn](https://linkedin.com/in/mohammed-oulhadj) · [Email](mailto:oulhadjmohamed62@gmail.com)
