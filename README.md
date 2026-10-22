@@ -24,6 +24,7 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 | Project | Description | Core stack |
 |---|---|---|
 | **Wattson Advisor** *(in progress)* | LLM pre-sales assistant for solar PV and EV charging: needs qualification, RAG answers with cited sources, electricity-bill extraction and deterministic sizing engine. | LLM · RAG · pgvector · FastAPI · React · Ollama |
+| [**Agentic Document Intelligence**](https://github.com/mohaasdt/Agentic-Document-Intelligence) | Evidence-grounded PDF question answering comparing classical, verified (NLI claim checking) and agentic RAG, with hybrid retrieval, reranking, OCR and page-level citations. | Agentic RAG · FAISS · BM25 · Ollama · FastAPI · React |
 | [**BigData Assistant**](https://github.com/mohaasdt/BigData-Assistant) | QLoRA fine-tuning of Qwen2.5-1.5B-Instruct to generate structured revision sheets (Definition / Example / Pitfall), evaluated base vs fine-tuned. | QLoRA · PEFT · Transformers · Gradio |
 | [**Oujdi Dialect Classifier**](https://github.com/mohaasdt/oujdi-dialect-classifier) | Oujdi vs Moroccan Darija classifier comparing TF-IDF, BiLSTM and DistilBERT + LoRA, served through a Flask API and a React interface. | NLP · Transformers · LoRA · Flask · React |
 | [**Attendify**](https://github.com/mohaasdt/attendify-face-recognition) | Face-recognition attendance system (Haar Cascade, LBPH, dlib embeddings) with an assistant powered by local LLMs. | OpenCV · dlib · Ollama · MySQL |
@@ -33,7 +34,7 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 ## Technical Toolbox
 
 **LLM & RAG**  
-`Open-source LLMs` `Qwen` `Ollama` `RAG` `Embeddings` `sentence-transformers` `pgvector` `LoRA / QLoRA` `PEFT` `Prompt Engineering` `Gradio`
+`Open-source LLMs` `Qwen` `Ollama` `RAG` `Agentic RAG` `Embeddings` `sentence-transformers` `pgvector` `FAISS` `BM25 / hybrid search` `LoRA / QLoRA` `PEFT` `Prompt Engineering` `Gradio`
 
 **NLP, ML & Deep Learning**  
 `Hugging Face Transformers` `DistilBERT` `BiLSTM` `PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
