@@ -15,7 +15,7 @@
 
 Final-year engineering student in **Digital Transformation & Artificial Intelligence** at **ENSA Al Hoceima** (Morocco), focused on **generative AI**.
 
-I like turning language models into real applications: grounding answers with **RAG**, adapting models with **LoRA / QLoRA**, measuring results honestly, and serving everything through clean APIs and simple interfaces.
+Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector search, **LoRA / QLoRA fine-tuning** and **NLP classification models**, from data preparation and evaluation to API deployment.
 
 **Currently looking for a PFE (end-of-studies) internship starting February 2027** in AI Engineering, LLM, RAG or NLP, in Morocco or internationally.
 
