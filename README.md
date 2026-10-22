@@ -6,7 +6,7 @@
 
 **Generative AI · LLM · RAG · Fine-tuning · NLP**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Oulhadj-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-oulhadj/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Oulhadj-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-oulhadj-875216371/)
 [![Email](https://img.shields.io/badge/Email-oulhadjmohamed62%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=oulhadjmohamed62@gmail.com)
 
 </div>
@@ -54,4 +54,4 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 ## Contact
 
 📍 Ahfir, Morocco  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-oulhadj/) · ✉️ oulhadjmohamed62@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-oulhadj-875216371/) · ✉️ oulhadjmohamed62@gmail.com
