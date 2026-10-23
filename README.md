@@ -6,6 +6,7 @@
 
 **Generative AI · LLM · RAG · Fine-tuning · NLP**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--oulhadj.vercel.app-1F4E8C?style=for-the-badge)](https://mohammed-oulhadj.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Oulhadj-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-oulhadj-875216371/)
 [![Email](https://img.shields.io/badge/Email-oulhadjmohamed62%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=oulhadjmohamed62@gmail.com)
 
@@ -23,7 +24,7 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 
 | Project | Description | Core stack |
 |---|---|---|
-| **Wattson Advisor** *(in progress)* | LLM pre-sales assistant for solar PV and EV charging: needs qualification, RAG answers with cited sources, electricity-bill extraction and deterministic sizing engine. | LLM · RAG · pgvector · FastAPI · React · Ollama |
+| **Wattson Advisor** | LLM pre-sales assistant for solar PV and EV charging: needs qualification, RAG answers with cited sources, electricity-bill extraction and deterministic sizing engine. | LLM · RAG · pgvector · FastAPI · React · Ollama |
 | [**Agentic Document Intelligence**](https://github.com/mohaasdt/Agentic-Document-Intelligence) | Evidence-grounded PDF question answering comparing classical, verified (NLI claim checking) and agentic RAG, with hybrid retrieval, reranking, OCR and page-level citations. | Agentic RAG · FAISS · BM25 · Ollama · FastAPI · React |
 | [**BigData Assistant**](https://github.com/mohaasdt/BigData-Assistant) | QLoRA fine-tuning of Qwen2.5-1.5B-Instruct to generate structured revision sheets (Definition / Example / Pitfall), evaluated base vs fine-tuned. | QLoRA · PEFT · Transformers · Gradio |
 | [**Oujdi Dialect Classifier**](https://github.com/mohaasdt/oujdi-dialect-classifier) | Oujdi vs Moroccan Darija classifier comparing TF-IDF, BiLSTM and DistilBERT + LoRA, served through a Flask API and a React interface. | NLP · Transformers · LoRA · Flask · React |
@@ -48,7 +49,7 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 
 ## Current Focus
 
-- building **Wattson Advisor**, an end-to-end LLM + RAG assistant;
+- building **agentic RAG** systems with verified, cited answers;
 - evaluating and comparing open-source LLMs run locally;
 - LLM security (OWASP Top 10 for LLM, prompt injection);
 - preparing for a **February 2027 PFE internship**.
@@ -56,4 +57,4 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 ## Contact
 
 📍 Ahfir, Morocco  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-oulhadj-875216371/) · ✉️ oulhadjmohamed62@gmail.com
+🌐 [Portfolio](https://mohammed-oulhadj.vercel.app) · 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-oulhadj-875216371/) · ✉️ oulhadjmohamed62@gmail.com
