@@ -4,7 +4,7 @@
 
 ### AI Engineer in training
 
-**Generative AI · LLM · RAG · Fine-tuning · Deep Learning**
+**Generative AI · LLM · RAG · Fine-tuning · ML & DL · NLP**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--oulhadj.vercel.app-1F4E8C?style=for-the-badge)](https://mohammed-oulhadj.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Oulhadj-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-oulhadj-875216371/)
@@ -16,9 +16,9 @@
 
 Final-year engineering student in **Digital Transformation & Artificial Intelligence** at **ENSA Al Hoceima** (Morocco), focused on **generative AI**.
 
-Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector search, **LoRA / QLoRA fine-tuning** and **deep learning models**, from data preparation and evaluation to API deployment.
+Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector search, **LoRA / QLoRA fine-tuning**, **machine learning & deep learning models** and **NLP classification models**, from data preparation and evaluation to API deployment.
 
-**Currently looking for a PFE (end-of-studies) internship starting February 2027** in AI Engineering, LLM, RAG or deep learning, in Morocco or internationally.
+**Currently looking for a PFE (end-of-studies) internship starting February 2027** in AI Engineering, LLM, RAG, ML & DL or NLP, in Morocco or internationally.
 
 ## Featured Projects
 
