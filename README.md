@@ -4,7 +4,7 @@
 
 ### AI Engineer in training
 
-**Generative AI · LLM · RAG · Fine-tuning · NLP**
+**Generative AI · LLM · RAG · Fine-tuning · Deep Learning**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammed--oulhadj.vercel.app-1F4E8C?style=for-the-badge)](https://mohammed-oulhadj.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Oulhadj-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/mohammed-oulhadj-875216371/)
@@ -16,15 +16,16 @@
 
 Final-year engineering student in **Digital Transformation & Artificial Intelligence** at **ENSA Al Hoceima** (Morocco), focused on **generative AI**.
 
-Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector search, **LoRA / QLoRA fine-tuning** and **NLP classification models**, from data preparation and evaluation to API deployment.
+Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector search, **LoRA / QLoRA fine-tuning** and **deep learning models**, from data preparation and evaluation to API deployment.
 
-**Currently looking for a PFE (end-of-studies) internship starting February 2027** in AI Engineering, LLM, RAG or NLP, in Morocco or internationally.
+**Currently looking for a PFE (end-of-studies) internship starting February 2027** in AI Engineering, LLM, RAG or deep learning, in Morocco or internationally.
 
 ## Featured Projects
 
 | Project | Description | Core stack |
 |---|---|---|
 | **Wattson Advisor** | LLM pre-sales assistant for solar PV and EV charging: needs qualification, RAG answers with cited sources, electricity-bill extraction and deterministic sizing engine. | LLM · RAG · pgvector · FastAPI · React · Ollama |
+| [**RAG Lab**](https://github.com/mohaasdt/rag-lab) | Local RAG built step by step and measured at each step: OCR ingestion, bge-m3 embeddings, Chroma and FAISS, LangChain, hybrid search (dense + BM25). 25-question evaluation with LLM-as-judge: 100 % context recall, 84 % correct answers, 3/3 trap questions refused. | RAG · Ollama · Chroma · FAISS · LangChain · Evaluation |
 | [**Agentic Document Intelligence**](https://github.com/mohaasdt/Agentic-Document-Intelligence) | Evidence-grounded PDF question answering comparing classical, verified (NLI claim checking) and agentic RAG, with hybrid retrieval, reranking, OCR and page-level citations. | Agentic RAG · FAISS · BM25 · Ollama · FastAPI · React |
 | [**BigData Assistant**](https://github.com/mohaasdt/BigData-Assistant) | QLoRA fine-tuning of Qwen2.5-1.5B-Instruct to generate structured revision sheets (Definition / Example / Pitfall), evaluated base vs fine-tuned. | QLoRA · PEFT · Transformers · Gradio |
 | [**Oujdi Dialect Classifier**](https://github.com/mohaasdt/oujdi-dialect-classifier) | Oujdi vs Moroccan Darija classifier comparing TF-IDF, BiLSTM and DistilBERT + LoRA, served through a Flask API and a React interface. | NLP · Transformers · LoRA · Flask · React |
@@ -38,7 +39,7 @@ Hands-on experience with **LLM-based assistants**, **RAG pipelines** with vector
 **LLM & RAG**  
 `Open-source LLMs` `Qwen` `Ollama` `RAG` `Agentic RAG` `Embeddings` `sentence-transformers` `pgvector` `FAISS` `BM25 / hybrid search` `LoRA / QLoRA` `PEFT` `Prompt Engineering` `Gradio`
 
-**NLP, ML & Deep Learning**  
+**ML, Deep Learning & NLP**  
 `Hugging Face Transformers` `DistilBERT` `BiLSTM` `PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `Pandas` `NumPy`
 
 **Data**  
